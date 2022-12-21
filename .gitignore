@@ -5,9 +5,9 @@
 ######################################################################################
 
 # MadCap file patterns
-/Output
-/Analyzer
+# /Output
+# /Analyzer
 /FileSync
-/Project/Users
+# /Project/Users
 /.svn
 **/Thumbs.db
